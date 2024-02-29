@@ -1,4 +1,4 @@
-# Credit-Case-Study
+# Credit transaction Project using classical ML algorithms
 
 The dataset is highly imbalanced
 Data can be found @ https://www.kaggle.com/mlg-ulb/creditcardfraud
