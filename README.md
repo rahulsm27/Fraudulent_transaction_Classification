@@ -10,4 +10,11 @@ Data can be found @ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ## ML algorithms
 
-Applied various ML algorithms like LogisticRegression, KNN, DecistionTree, RandomForest, and XGBoost using grid search cv to find the best model with the best parameters to classify the transaction of a credit card company to detect fraudulent transactions
+Applied various ML algorithms like 
+- LogisticRegression 
+- KNN
+- DecistionTree 
+- RandomForest
+- XGBoost 
+
+using grid search cv to find the best model with the best parameters to classify the transaction of a credit card company to detect fraudulent transactions
