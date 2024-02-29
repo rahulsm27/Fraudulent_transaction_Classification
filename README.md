@@ -1,5 +1,13 @@
 # Credit-Case-Study
 
-Applied various ML algorithms for a credit card company to detect fradulent transactions
 The dataset is highly imbalanced
 Data can be found @ https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+## Performed class balancing with :
+- Random Oversampling
+- SMOTE
+- ADASYN
+
+## ML algorithms
+
+Applied various ML algorithms like LogisticRegression, KNN, DecistionTree, RandomForest, and XGBoost using grid search cv to find the best model with the best parameters to classify the transaction of a credit card company to detect fraudulent transactions
